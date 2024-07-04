@@ -1,1 +1,1 @@
-export { default } from "file:///D:/KULIAH/KULIAH%20SEMESTER%204/PEMOGRAMAN%20WEB/responsi_pemrogamman_web/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
+export { default } from "file:///D:/RESPONSI/responsi_pemrogamman_web/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

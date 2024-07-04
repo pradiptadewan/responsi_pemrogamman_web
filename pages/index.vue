@@ -1,5 +1,8 @@
 <template>
+
   <div>
+    
+    <Navbar />,
     <HeroSection />,
     <AboutSection />,
     <ProjectsSection />,
@@ -8,6 +11,7 @@
 </template>
 
 <script>
+import Navbar from '../components/Navbar.vue';
 import HeroSection from '~/components/HeroSection.vue';
 import AboutSection from '~/components/AboutSection.vue';
 import ProjectsSection from '~/components/ProjectsSection.vue';

@@ -15,5 +15,6 @@ export default {
 .projects {
   padding: 50px 0;
   background: #e9ecef;
+  text-align: center;
 }
 </style>

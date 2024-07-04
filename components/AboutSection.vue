@@ -14,5 +14,7 @@ export default {
 <style scoped>
 .about {
   padding: 50px 0;
+  text-align:  center;
 }
+
 </style>
