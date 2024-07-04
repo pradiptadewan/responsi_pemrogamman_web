@@ -1,6 +1,9 @@
 <template>
   <div>
-    <HeroSection />
+    <HeroSection />,
+    <AboutSection />,
+    <ProjectsSection />,
+    <ContactSection />,
   </div>
 </template>
 
@@ -13,6 +16,10 @@ import ContactSection from '~/components/ContactSection.vue';
 export default {
   components: {
     HeroSection,
+    AboutSection,
+    ProjectsSection,
+    ContactSection,
+
   }
 }
 </script>./Index.vue
