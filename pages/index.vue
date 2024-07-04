@@ -1,12 +1,12 @@
 <template>
 
   <div>
-    
-    <Navbar />,
-    <HeroSection />,
-    <AboutSection />,
-    <ProjectsSection />,
-    <ContactSection />,
+
+    <Navbar />
+    <HeroSection />
+    <AboutSection />
+    <ProjectsSection />
+    <ContactSection />
   </div>
 </template>
 
